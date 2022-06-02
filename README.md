@@ -1,5 +1,6 @@
 # Useful Websites
 
+# full stack
 # <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="Javascript" width="30" height="30">  JavaScript  
 
  
@@ -29,7 +30,7 @@
 
 # ⚙️ MISC 
 
-[Tiny PNG](https://tinypng.com/)
+[Tiny PNG](https://tinypng.com/) -  reduce the file size of your WEBP, JPEG and PNG files.
 
 [Weed Ipsum](http://weedipsum.com/)
 
@@ -163,9 +164,21 @@ Project 4
 
 <br/><br/>
 
+# Game Development
+<br/>
 
-Made By - Dor Zairi <t> <img src="https://avatars.githubusercontent.com/u/56084381?v=4" alt="Javascript" width="30" height="30">
+# 🧊 textures 
+
+[poliigon](poliigon.com)
+
+[3dtextures](3dtextures.me)
+
+[arroway-textures](arroway-textures.ch)
 
 
-Last updated June 2, 2022 
+<br/><br/>
+
+
+
+###### Last updated June 2, 2022 By Dor
 
