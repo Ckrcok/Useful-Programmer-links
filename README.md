@@ -54,9 +54,7 @@
 # Tools ⚒️
 
 
-<a href="data:text/html">Editable Blank Page</a>
-
-
+Editable Blank Page - data:text/html insert in the URL
 
 [Wireframe.cc | The go-to wireframing tool.](https://wireframe.cc/)
 
