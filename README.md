@@ -29,6 +29,8 @@
 
 # ⚙️ MISC 
 
+[Tiny PNG](https://tinypng.com/)
+
 [Weed Ipsum](http://weedipsum.com/)
 
 [Favicon Generator for perfect icons on all browsers](https://realfavicongenerator.net/)
