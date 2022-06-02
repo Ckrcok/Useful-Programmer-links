@@ -53,7 +53,10 @@
 
 # Tools ⚒️
 
-data:text/html,<html contenteditable>
+
+<a href="data:text/html">Editable Blank Page</a>
+
+
 
 [Wireframe.cc | The go-to wireframing tool.](https://wireframe.cc/)
 
