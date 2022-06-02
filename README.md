@@ -1,11 +1,8 @@
 # Useful Websites
 
-# JavaScript
+# <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="Javascript" width="30" height="30">  JavaScript  
 
-![https://cdn.worldvectorlogo.com/logos/logo-javascript.svg](https://cdn.worldvectorlogo.com/logos/logo-javascript.svg)
-
----
-
+ 
 [JavaScript DOM access methods speed benchmark | by Sergey Dubovyk | Medium](https://medium.com/@knidarkness/javascript-dom-access-methods-speed-benchmark-64bb6fd4f8a6)
 
 [Unix Time Stamp - Epoch Converter](https://www.unixtimestamp.com/)
@@ -14,9 +11,9 @@
 
 [Three.js – JavaScript 3D library](https://threejs.org/)
 
-# CSS
+<br/><br/>
 
-![https://cdn.worldvectorlogo.com/logos/css-3.svg](https://cdn.worldvectorlogo.com/logos/css-3.svg)
+# <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" alt="Javascript" width="30" height="30">  CSS
 
 [Color Picker — HTML Color Codes](https://htmlcolorcodes.com/color-picker/)
 
@@ -28,7 +25,9 @@
 
 [Tailwind CSS - Rapidly build modern websites without ever leaving your HTML.](https://tailwindcss.com/)
 
-# MISC ⚙️
+<br/><br/>
+
+# ⚙️ MISC 
 
 [Weed Ipsum](http://weedipsum.com/)
 
@@ -37,10 +36,10 @@
 [Smashing Magazine — For Web Designers And Developers](https://www.smashingmagazine.com/)
 
 [https://loading.io/spinner/](https://loading.io/spinner/)
+<br/><br/>
 
-# Practice
+# 👨‍💻👩‍💻Practice
 
-![https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Two_red_dice_01.svg/1200px-Two_red_dice_01.svg.png](https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Two_red_dice_01.svg/1200px-Two_red_dice_01.svg.png)
 
 [Achieve mastery through challenge | Codewars](https://www.codewars.com/)
 
@@ -49,6 +48,8 @@
 [AOS - Animate on scroll library](http://michalsnik.github.io/aos/)
 
 [LeetCode - The World's Leading Online Programming Learning Platform](https://leetcode.com/)
+
+<br/><br/>
 
 # Tools ⚒️
 
@@ -78,7 +79,9 @@ data:text/html,<html contenteditable>
 
 [Notion – The all-in-one workspace for your notes, tasks, wikis, and databases.](https://www.notion.so/)
 
-# Cheetsheets 📋
+<br/><br/>
+
+# 📋 Cheetsheets 
 
 [DevDocs API Documentation](https://devdocs.io/)
 
@@ -89,35 +92,47 @@ data:text/html,<html contenteditable>
 [remote repo :: Git Cheatsheet :: NDP Software](http://www.ndpsoftware.com/git-cheatsheet.html#loc=remote_repo;)
 
 [Emmet cheatsheet](https://devhints.io/emmet)
+<br/><br/>
 
-# Examples
+# ⚒️ Cool Projects
 
 Project 1
 
 [snakeByte](https://th3dougler.github.io/snakeByte/)
+
 [Battleship](https://c1ndyy.github.io/Battleship/)
+
 [tetris](https://pages.git.generalassemb.ly/loganjm/tetris/)
 
 [Blackjack](https://charlesata.github.io/Blackjack/)
+
 [blackjack](https://robertkoszegi.github.io/blackjack/)
 
+<br/><br/>
 Project 2
 
 [Jean Coutu](https://jeanmodel.herokuapp.com/)
 
 [needsomespace](https://needsomespace.herokuapp.com/)
 
+<br/><br/>
 Project 3
 
 [tweet-log-pf](https://tweet-log-pf.herokuapp.com/info)
 
 [nft-gallery](https://sei44-nft-gallery.herokuapp.com/)
+
 [shoplocalto](https://shoplocalto.herokuapp.com/)
+
 [parjalan](http://parjalan.herokuapp.com/)
+
 [spotter-demo](https://spotter-demo.herokuapp.com/)
+
 [workoutify](https://workoutify.herokuapp.com/)
+
 [expense-o-track](https://expense-o-track.herokuapp.com/)
 
+<br/><br/>
 Project 4
 
 [investpropp](https://investpropp.herokuapp.com)
@@ -134,7 +149,8 @@ Project 4
 
 [Flex Cheatsheet](https://yoksel.github.io/flex-cheatsheet/)
 
-# Interviews
+<br/><br/>
+# 💬 Interviews
 
 [A developer’s guide to interviewing | by Dave Smith | freeCodeCamp.org | Medium](https://medium.com/free-code-camp/how-to-interview-as-a-developer-candidate-b666734f12dd)
 
@@ -142,8 +158,11 @@ Project 4
 
 [25 Most Common Web Developer Interview Questions And Answers [2020] | by Team Codegiant | Codegiant](https://blog.codegiant.io/25-web-developer-interview-questions-and-answers-3030b21ae016)
 
-Made By - Dor Zairi 
+<br/><br/>
+
+
+Made By - Dor Zairi <t> <img src="https://avatars.githubusercontent.com/u/56084381?v=4" alt="Javascript" width="30" height="30">
+
 
 Last updated June 2, 2022 
 
-[https://avatars.githubusercontent.com/u/56084381?v=4](https://avatars.githubusercontent.com/u/56084381?v=4)
