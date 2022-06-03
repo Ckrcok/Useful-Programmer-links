@@ -1,5 +1,6 @@
 # Useful Websites
 
+# full stack
 # <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="Javascript" width="30" height="30">  JavaScript  
 
  
@@ -29,7 +30,7 @@
 
 # ⚙️ MISC 
 
-[Tiny PNG](https://tinypng.com/)
+[Tiny PNG](https://tinypng.com/) -  reduce the file size of your WEBP, JPEG and PNG files.
 
 [Weed Ipsum](http://weedipsum.com/)
 
@@ -78,9 +79,14 @@ Editable Blank Page - data:text/html insert in the URL
 
 [CodeSandbox: Online Code Editor and IDE for Rapid Web Development](https://codesandbox.io/?from-app=1)
 
+
+[font to a typeface.js font.](http://gero3.github.io/facetype.js/)
+
+
 [Shields.io: Quality metadata badges for open source projects](https://shields.io/)
 
 [Notion – The all-in-one workspace for your notes, tasks, wikis, and databases.](https://www.notion.so/)
+
 
 <br/><br/>
 
@@ -163,9 +169,32 @@ Project 4
 
 <br/><br/>
 
+# Game Development
+<br/>
 
-Made By - Dor Zairi <t> <img src="https://avatars.githubusercontent.com/u/56084381?v=4" alt="Javascript" width="30" height="30">
+# 🧊 Textures 
+
+[poliigon](poliigon.com)
+
+[3dtextures](3dtextures.me)
+
+[arroway-textures](arroway-textures.ch)
 
 
-Last updated June 2, 2022 
+[Nidorx Matcaps Repo](https://github.com/nidorx/matcaps)
+
+[Poly Haven](https://polyhaven.com/)
+
+
+<br/><br/>
+
+
+# 🧰 Tools 
+
+[HDRI To CubeMap](https://matheowis.github.io/HDRI-to-CubeMap/)
+
+
+[font to a typeface.js font.](http://gero3.github.io/facetype.js/)
+
+###### Last updated June 3, 2022 By Dor
 
