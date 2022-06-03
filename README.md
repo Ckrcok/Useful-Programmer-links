@@ -79,9 +79,14 @@ Editable Blank Page - data:text/html insert in the URL
 
 [CodeSandbox: Online Code Editor and IDE for Rapid Web Development](https://codesandbox.io/?from-app=1)
 
+
+[font to a typeface.js font.](http://gero3.github.io/facetype.js/)
+
+
 [Shields.io: Quality metadata badges for open source projects](https://shields.io/)
 
 [Notion – The all-in-one workspace for your notes, tasks, wikis, and databases.](https://www.notion.so/)
+
 
 <br/><br/>
 
@@ -188,6 +193,8 @@ Project 4
 
 [HDRI To CubeMap](https://matheowis.github.io/HDRI-to-CubeMap/)
 
+
+[font to a typeface.js font.](http://gero3.github.io/facetype.js/)
 
 ###### Last updated June 3, 2022 By Dor
 
