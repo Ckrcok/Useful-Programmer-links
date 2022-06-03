@@ -1,6 +1,7 @@
-# Useful Websites
+# Useful Websites For Developers
+>Explain here what I'm doing
 
-# full stack
+# Full Stack
 # <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="Javascript" width="30" height="30">  JavaScript  
 
  
@@ -54,7 +55,7 @@
 
 <br/><br/>
 
-# Tools ⚒️
+# 🧰 Tool Box
 
 
 Editable Blank Page - data:text/html insert in the URL
@@ -105,7 +106,7 @@ Editable Blank Page - data:text/html insert in the URL
 
 # ⚒️ Cool Projects
 
-Project 1
+<ins>Project 1</ins>
 
 [snakeByte](https://th3dougler.github.io/snakeByte/)
 
@@ -118,14 +119,14 @@ Project 1
 [blackjack](https://robertkoszegi.github.io/blackjack/)
 
 <br/><br/>
-Project 2
+<ins>Project 2</ins>
 
 [Jean Coutu](https://jeanmodel.herokuapp.com/)
 
 [needsomespace](https://needsomespace.herokuapp.com/)
 
 <br/><br/>
-Project 3
+<ins>Project 3</ins>
 
 [tweet-log-pf](https://tweet-log-pf.herokuapp.com/info)
 
@@ -142,7 +143,7 @@ Project 3
 [expense-o-track](https://expense-o-track.herokuapp.com/)
 
 <br/><br/>
-Project 4
+<ins>Project 4</ins>
 
 [investpropp](https://investpropp.herokuapp.com)
 
@@ -189,7 +190,7 @@ Project 4
 <br/><br/>
 
 
-# 🧰 Tools 
+# 🧰 Tool Box
 
 [HDRI To CubeMap](https://matheowis.github.io/HDRI-to-CubeMap/)
 
