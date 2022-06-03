@@ -3,11 +3,12 @@
 >Explain here what I'm doing
 
 <!-- TODO add Table of content -->
-#  Full Stack
 
-##  <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="Javascript" width="30" height="30"> <ins> JavaScript  </ins>
 
- 
+# FullStack
+
+## <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="Javascript" width="30" height="30"> <ins> JavaScript  </ins>
+
 [JavaScript DOM access methods speed benchmark | by Sergey Dubovyk | Medium](https://medium.com/@knidarkness/javascript-dom-access-methods-speed-benchmark-64bb6fd4f8a6)
 
 [Unix Time Stamp - Epoch Converter](https://www.unixtimestamp.com/)
@@ -32,7 +33,7 @@
 
 <br/><br/>
 
-##  ⚙️ <ins>MISC </ins>
+## ⚙️ <ins>MISC </ins>
 
 [Tiny PNG](https://tinypng.com/) -  reduce the file size of your WEBP, JPEG and PNG files.
 
@@ -50,18 +51,15 @@
 
 ## 👨‍💻👩‍💻 <ins> Practice </ins>
 
-
 [Codewars](https://www.codewars.com/)
 
 [Edabit](https://edabit.com/)
 
-
-[LeetCode ](https://leetcode.com/)
+[LeetCode](https://leetcode.com/)
 
 <br/><br/>
 
-## 🧰 <ins>  Tool Box </ins> 
-
+## 🧰 ToolBox
 
 Editable Blank Page - data:text/html insert in the URL
 
@@ -85,18 +83,15 @@ Editable Blank Page - data:text/html insert in the URL
 
 [CodeSandbox: Online Code Editor and IDE for Rapid Web Development](https://codesandbox.io/?from-app=1)
 
-
 [font to a typeface.js font.](http://gero3.github.io/facetype.js/)
-
 
 [Shields.io: Quality metadata badges for open source projects](https://shields.io/)
 
 [Notion – The all-in-one workspace for your notes, tasks, wikis, and databases.](https://www.notion.so/)
 
-
 <br/><br/>
 
-## 📋<ins>Cheetsheets </ins> 
+## 📋<ins>Cheetsheets </ins>
 
 [DevDocs API Documentation](https://devdocs.io/)
 
@@ -124,6 +119,7 @@ Editable Blank Page - data:text/html insert in the URL
 [blackjack](https://robertkoszegi.github.io/blackjack/)
 
 <br/><br/>
+
 ### <ins>Project 2</ins>
 
 [Jean Coutu](https://jeanmodel.herokuapp.com/)
@@ -148,6 +144,7 @@ Editable Blank Page - data:text/html insert in the URL
 [expense-o-track](https://expense-o-track.herokuapp.com/)
 
 <br/><br/>
+
 ### <ins>Project 4</ins>
 
 [investpropp](https://investpropp.herokuapp.com)
@@ -165,25 +162,45 @@ Editable Blank Page - data:text/html insert in the URL
 [Flex Cheatsheet](https://yoksel.github.io/flex-cheatsheet/)
 
 <br/><br/>
-##  💬 <ins> Interviews </ins>
+
+## 💬 <ins> Interviews </ins>
 
 [A developer’s guide to interviewing | by Dave Smith | freeCodeCamp.org | Medium](https://medium.com/free-code-camp/how-to-interview-as-a-developer-candidate-b666734f12dd)
 
-
 [25 Most Common Web Developer Interview Questions And Answers [2020] | by Team Codegiant | Codegiant](https://blog.codegiant.io/25-web-developer-interview-questions-and-answers-3030b21ae016)
+
+[javascript questions](https://github.com/lydiahallie/javascript-questions)
 <br/><br/>
 
-##  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/github/github-original.svg" width="30" height="30"> <ins>Repos</ins>
+## <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/github/github-original.svg" width="30" height="30"> <ins>Repos</ins>
+
 [Devicon](https://github.com/devicons/devicon)
 
+[Public Apis](https://github.com/public-apis/public-apis)
+
+[Colors.js](https://github.com/Marak/colors.js)
+
+[Nerd Fonts](https://github.com/ryanoasis/nerd-fonts)
+
+[Liabary of gitignores](https://github.com/github/gitignore)
+
 <br/><br/>
+
+## 🖥️ <ins>Hosting</ins>
+
+[Vercel](https://vercel.com/)
+
+[Netlify](https://www.netlify.com/)
+
+[GitHub Pages](https://pages.github.com/)
 
 
 
 # 🎮 Game Development
+
 <br/>
 
-## 🧊 <ins> Textures </ins> 
+## 🧊 <ins> Textures </ins>
 
 [poliigon](poliigon.com)
 
@@ -191,16 +208,13 @@ Editable Blank Page - data:text/html insert in the URL
 
 [arroway-textures](arroway-textures.ch)
 
-
 [Nidorx Matcaps Repo](https://github.com/nidorx/matcaps)
 
 [Poly Haven](https://polyhaven.com/)
 
-
 <br/><br/>
 
-
-## 🧰 <ins>Tool Box</ins>
+## 🧰 ToolBox
 
 [HDRI To CubeMap](https://matheowis.github.io/HDRI-to-CubeMap/)
 
@@ -208,8 +222,10 @@ Editable Blank Page - data:text/html insert in the URL
 
 <br/><br/>
 
-##  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/github/github-original.svg" width="30" height="30"> <ins>Repos</ins>
+## <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/github/github-original.svg" width="30" height="30"> <ins>Repos</ins>
 
 <br/><br/>
-###### Last updated June 3, 2022 By Dor
 
+---
+
+###### Last updated June 3, 2022 By Dor
