@@ -1,8 +1,11 @@
 # Useful Websites For Developers
+<!-- TODO Add explanation -->
 >Explain here what I'm doing
 
-# Full Stack
-# <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="Javascript" width="30" height="30">  JavaScript  
+<!-- TODO add Table of content -->
+#  Full Stack
+
+##  <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="Javascript" width="30" height="30"> <ins> JavaScript  </ins>
 
  
 [JavaScript DOM access methods speed benchmark | by Sergey Dubovyk | Medium](https://medium.com/@knidarkness/javascript-dom-access-methods-speed-benchmark-64bb6fd4f8a6)
@@ -15,7 +18,7 @@
 
 <br/><br/>
 
-# <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" alt="Javascript" width="30" height="30">  CSS
+## <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" alt="Javascript" width="30" height="30"> <ins> CSS </ins>
 
 [Color Picker — HTML Color Codes](https://htmlcolorcodes.com/color-picker/)
 
@@ -29,7 +32,7 @@
 
 <br/><br/>
 
-# ⚙️ MISC 
+##  ⚙️ <ins>MISC </ins>
 
 [Tiny PNG](https://tinypng.com/) -  reduce the file size of your WEBP, JPEG and PNG files.
 
@@ -40,22 +43,24 @@
 [Smashing Magazine — For Web Designers And Developers](https://www.smashingmagazine.com/)
 
 [https://loading.io/spinner/](https://loading.io/spinner/)
-<br/><br/>
-
-# 👨‍💻👩‍💻Practice
-
-
-[Achieve mastery through challenge | Codewars](https://www.codewars.com/)
-
-[https://edabit.com/](https://edabit.com/)
 
 [AOS - Animate on scroll library](http://michalsnik.github.io/aos/)
 
-[LeetCode - The World's Leading Online Programming Learning Platform](https://leetcode.com/)
+<br/><br/>
+
+## 👨‍💻👩‍💻 <ins> Practice </ins>
+
+
+[Codewars](https://www.codewars.com/)
+
+[Edabit](https://edabit.com/)
+
+
+[LeetCode ](https://leetcode.com/)
 
 <br/><br/>
 
-# 🧰 Tool Box
+## 🧰 <ins>  Tool Box </ins> 
 
 
 Editable Blank Page - data:text/html insert in the URL
@@ -91,7 +96,7 @@ Editable Blank Page - data:text/html insert in the URL
 
 <br/><br/>
 
-# 📋 Cheetsheets 
+## 📋<ins>Cheetsheets </ins> 
 
 [DevDocs API Documentation](https://devdocs.io/)
 
@@ -104,9 +109,9 @@ Editable Blank Page - data:text/html insert in the URL
 [Emmet cheatsheet](https://devhints.io/emmet)
 <br/><br/>
 
-# ⚒️ Cool Projects
+## ⚒️ <ins>Cool Projects </ins>
 
-<ins>Project 1</ins>
+### <ins>Project 1</ins>
 
 [snakeByte](https://th3dougler.github.io/snakeByte/)
 
@@ -119,7 +124,7 @@ Editable Blank Page - data:text/html insert in the URL
 [blackjack](https://robertkoszegi.github.io/blackjack/)
 
 <br/><br/>
-<ins>Project 2</ins>
+### <ins>Project 2</ins>
 
 [Jean Coutu](https://jeanmodel.herokuapp.com/)
 
@@ -143,7 +148,7 @@ Editable Blank Page - data:text/html insert in the URL
 [expense-o-track](https://expense-o-track.herokuapp.com/)
 
 <br/><br/>
-<ins>Project 4</ins>
+### <ins>Project 4</ins>
 
 [investpropp](https://investpropp.herokuapp.com)
 
@@ -160,20 +165,25 @@ Editable Blank Page - data:text/html insert in the URL
 [Flex Cheatsheet](https://yoksel.github.io/flex-cheatsheet/)
 
 <br/><br/>
-# 💬 Interviews
+##  💬 <ins> Interviews </ins>
 
 [A developer’s guide to interviewing | by Dave Smith | freeCodeCamp.org | Medium](https://medium.com/free-code-camp/how-to-interview-as-a-developer-candidate-b666734f12dd)
 
-[ga-wdi-boston/interview-discussion](https://git.generalassemb.ly/ga-wdi-boston/interview-discussion/#how-to-whiteboard)
 
 [25 Most Common Web Developer Interview Questions And Answers [2020] | by Team Codegiant | Codegiant](https://blog.codegiant.io/25-web-developer-interview-questions-and-answers-3030b21ae016)
+<br/><br/>
+
+##  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/github/github-original.svg" width="30" height="30"> <ins>Repos</ins>
+[Devicon](https://github.com/devicons/devicon)
 
 <br/><br/>
 
-# Game Development
+
+
+# 🎮 Game Development
 <br/>
 
-# 🧊 Textures 
+## 🧊 <ins> Textures </ins> 
 
 [poliigon](poliigon.com)
 
@@ -190,12 +200,16 @@ Editable Blank Page - data:text/html insert in the URL
 <br/><br/>
 
 
-# 🧰 Tool Box
+## 🧰 <ins>Tool Box</ins>
 
 [HDRI To CubeMap](https://matheowis.github.io/HDRI-to-CubeMap/)
 
-
 [font to a typeface.js font.](http://gero3.github.io/facetype.js/)
 
+<br/><br/>
+
+##  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/github/github-original.svg" width="30" height="30"> <ins>Repos</ins>
+
+<br/><br/>
 ###### Last updated June 3, 2022 By Dor
 
