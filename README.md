@@ -47,6 +47,12 @@
 
 [AOS - Animate on scroll library](http://michalsnik.github.io/aos/)
 
+[Carbon - Create and share beautiful images of your source code](https://carbon.now.sh/)
+
+
+[ Confetti Snippets icon Confetti Snippets ](https://copy.notmydayjob.fyi/)
+
+
 <br/><br/>
 
 ## 👨‍💻👩‍💻 <ins> Practice </ins>
@@ -194,6 +200,10 @@ Editable Blank Page - data:text/html insert in the URL
 
 [GitHub Pages](https://pages.github.com/)
 
+
+## <ins>vscode extenstions</ins>
+
+[GitHub Pages](https://marketplace.visualstudio.com/items?itemName=itsrennyman.snippets-photo-shoot)
 
 
 # 🎮 Game Development
