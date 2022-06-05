@@ -236,6 +236,12 @@ Editable Blank Page - data:text/html insert in the URL
 
 <br/><br/>
 
+
+## Learning
+
+[Learn GDScript From Zero](https://gdquest.itch.io/learn-godot-gdscript)
+
+
 ---
 
-###### Last updated June 3, 2022 By Dor
+###### Last updated June 5, 2022 By Dor
